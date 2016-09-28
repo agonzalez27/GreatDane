@@ -1,3 +1,75 @@
 body {
-  background-color: red;
+  background-image: url("http://i.imgur.com/em8dSvQ.jpg");
+}
+
+h1 {
+  color: black;
+  font-size: 40px;
+  text-align: center;
+
+}
+
+h2 {
+  color: black;
+  text-align: center;
+}
+
+img.gary {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h4 {
+  color: black;
+  text-align: center;
+}
+
+ul {
+  color: black;
+  text-align: left;
+}
+
+h3 {
+  color: black;
+  text-align: left;
+}
+
+p {
+  color: black;
+  text-align: left;
+}
+
+ol {
+  color: black;
+  text-align: left;
+}
+
+li {
+  text-align: left;
+  color: black;
+}
+
+div {
+  margin: 0 auto;
+  border: 3px solid white;
+  height: 400px;
+  width: 75%;
+}
+
+#garydog {
+  background-color: white;
+}
+
+#garchar {
+  background-color: teal;
+}
+
+#garydeal {
+  background-color: gold;
+  height: 200px;
+}
+
+.head {
+  color: white;
 }
